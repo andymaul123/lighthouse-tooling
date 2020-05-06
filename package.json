@@ -1,0 +1,24 @@
+{
+  "name": "lighthouse-tooling",
+  "version": "1.0.0",
+  "description": "A small app for running Lighthouse jobs and saving reports to disk.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymaul123/lighthouse-tooling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymaul123/lighthouse-tooling/issues"
+  },
+  "homepage": "https://github.com/andymaul123/lighthouse-tooling#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.13.1",
+    "fs-extra": "^9.0.0",
+    "lighthouse": "^5.6.0"
+  }
+}

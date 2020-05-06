@@ -64,6 +64,6 @@ typings/
 .DS_Store
 
 # Project specific
-reports/
+reports/*
 
 
